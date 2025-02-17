@@ -4,4 +4,4 @@ Senior Android Developer @Lomotif, GDE for Android
 
 * 🌍  I'm based in Singapore
 * 🚀  I'm currently working on [Lomotif](http://play.google.com/store/apps/details?id=com.lomotif.android&hl=en&gl=US)
-* 🧠  I'm learning compose
+* 🧠  Beyond Android, I also explore Cross-Platforms, primarily focus on Compose Mulitplatform. 
